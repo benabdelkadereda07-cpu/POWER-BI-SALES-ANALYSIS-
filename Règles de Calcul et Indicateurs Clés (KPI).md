@@ -8,7 +8,7 @@ Les indicateurs de performance sont calculés à partir des données commerciale
 - **Chiffre d'affaires net** = Chiffre d'affaires brut − Montant des remises.
 - **Coût total de production** = Quantité produite × Coût unitaire de production.
 - **Bénéfice brut** = Chiffre d'affaires net − Coût de production.
-- **Taux de marge (%)** = (Bénéfice brut / Chiffre d'affaires net) × 100.
+- **Taux de marge (%)** = (Bénéfice brut / Chiffre d'affaires net) × 100..
 
 ### 4.2. Analyse de l'impact des couleurs
 - **Quantité vendue par couleur** = Somme des quantités vendues pour chaque couleur.
