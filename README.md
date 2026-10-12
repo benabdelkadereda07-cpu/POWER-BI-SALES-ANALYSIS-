@@ -42,16 +42,4 @@ L'objectif est de transformer les données commerciales et industrielles en indi
 
 Ce projet vise à identifier les produits et les canaux de vente les plus rentables, à comprendre l'impact des remises et des retours, à optimiser les coûts de production et à fournir des informations utiles pour améliorer les décisions stratégiques de l'entreprise.
 
-## Aperçu du Dashboard
 
-*Ajouter ici des captures d'écran du tableau de bord Power BI.*
-
-## Contenu du Repository
-
-- `*.pbix` : fichier du rapport Power BI.
-- `screenshots/` : captures d'écran du tableau de bord.
-- `data/` : jeux de données sources, si leur partage est autorisé.
-
-## Auteur
-
-**Projet de Portfolio — Data Analyst**
