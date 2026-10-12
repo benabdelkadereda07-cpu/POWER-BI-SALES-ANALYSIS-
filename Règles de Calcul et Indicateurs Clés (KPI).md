@@ -1,6 +1,6 @@
 ## 4. Règles de Calcul et Indicateurs Clés (KPI)
 
-Les indicateurs de performance sont calculés à partir des données commerciales et industrielles afin d'évaluer la rentabilité de l'entreprise.
+Les indicateurs de performance sont calculés à partir des données commerciales et industrielles afin d'évaluer la rentabilité de l'entreprise. 
 
 ### 4.1. Analyse de la rentabilité des produits
 - **Chiffre d'affaires brut** = Quantité vendue × Prix unitaire.
